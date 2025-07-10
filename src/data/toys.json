@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Red Fire Truck",
+    "info": "A large plastic fire truck with extendable ladder.",
+    "category": "vehicles",
+    "img_url": "https://example.com/firetruck.jpg",
+    "price": 29.99
+  },
+  {
+    "name": "Yellow Bulldozer",
+    "info": "Durable bulldozer toy for outdoor use.",
+    "category": "vehicles",
+    "img_url": "https://example.com/bulldozer.jpg",
+    "price": 24.5
+  },
+  {
+    "name": "Blue Race Car",
+    "info": "Sleek race car with pull-back motor.",
+    "category": "vehicles",
+    "img_url": "https://example.com/racecar.jpg",
+    "price": 14.99
+  },
+  {
+    "name": "Green Tractor",
+    "info": "Tractor with detachable trailer.",
+    "category": "vehicles",
+    "img_url": "https://example.com/tractor.jpg",
+    "price": 19.95
+  },
+  {
+    "name": "Wooden Lion",
+    "info": "Hand-painted wooden lion figurine.",
+    "category": "animals",
+    "img_url": "https://example.com/lion.jpg",
+    "price": 9.99
+  },
+  {
+    "name": "Plastic Elephant",
+    "info": "Cute and sturdy plastic elephant.",
+    "category": "animals",
+    "img_url": "https://example.com/elephant.jpg",
+    "price": 11.25
+  },
+  {
+    "name": "Stuffed Bear",
+    "info": "Soft teddy bear for cuddling.",
+    "category": "animals",
+    "img_url": "https://example.com/bear.jpg",
+    "price": 15.99
+  },
+  {
+    "name": "Farm Animal Set",
+    "info": "Set of 6 mini farm animals.",
+    "category": "animals",
+    "img_url": "https://example.com/farmset.jpg",
+    "price": 18.0
+  },
+  {
+    "name": "Lego Starter Kit",
+    "info": "Starter building set with 150 pieces.",
+    "category": "blocks",
+    "img_url": "https://example.com/lego1.jpg",
+    "price": 34.99
+  },
+  {
+    "name": "Mega Bloks Jungle",
+    "info": "Block set with jungle animal theme.",
+    "category": "blocks",
+    "img_url": "https://example.com/megabloks.jpg",
+    "price": 27.75
+  },
+  {
+    "name": "Wooden Puzzle Blocks",
+    "info": "Educational wooden block puzzle.",
+    "category": "blocks",
+    "img_url": "https://example.com/puzzleblocks.jpg",
+    "price": 22.5
+  },
+  {
+    "name": "Magnetic Building Tiles",
+    "info": "Colorful magnetic tiles for creative play.",
+    "category": "blocks",
+    "img_url": "https://example.com/magnettiles.jpg",
+    "price": 39.9
+  }
+]
